@@ -67,7 +67,7 @@ nav {
 .fon {
   display: flex;
   background-image: url(/Пост\ аниме.png);
-  background-size: 100%;
+  background-size: cover;
 }
 
 .info {
