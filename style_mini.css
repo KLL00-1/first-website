@@ -30,6 +30,10 @@
   }
 }
 @media (max-height: 900px) {
+  .dog {
+    margin-top: 50px;
+    margin-bottom: -30px;
+  }
   .dog img {
     width: 70%;
   }
